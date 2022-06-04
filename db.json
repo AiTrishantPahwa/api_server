@@ -44,7 +44,7 @@
     },
     {
       "Asset": "EV Charge Point",
-      "Asset_sub-type": [
+      "Asset_sub_type": [
         {
           "Type": "Slow",
           "Manufacturer": "Name",
@@ -81,7 +81,7 @@
     },
     {
       "Asset": "Heat Pumps",
-      "Asset_sub-type": [
+      "Asset_sub_type": [
         {
           "Type": "Air source heat pump",
           "Manufacturer": "Name",
@@ -115,7 +115,7 @@
         },
         {
           "Asset": "EV Charge Point",
-          "Asset_sub-type": "Slow",
+          "Asset_sub_type": "Slow",
           "Manufacturer": "",
           "Summer_Peak (mWp)": 12,
           "Winter_Peak (mWp)": 42,
@@ -123,7 +123,7 @@
         },
         {
           "Asset": "Heat Pump",
-          "Asset_sub-type": "Ground source heat pump",
+          "Asset_sub_type": "Ground source heat pump",
           "Manufacturer": "",
           "Summer_Peak (mWp)": 22,
           "Winter_Peak (mWp)": 2,
