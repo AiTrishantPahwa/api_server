@@ -9,7 +9,7 @@
           "Summer_Peak_(mWp)": 3,
           "Winter_Peak (mWp)": "",
           "Icon": "Yes",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Type": "Type 2",
@@ -17,7 +17,7 @@
           "Summer_Peak_(mWp)": 4,
           "Winter_Peak_(mWp)": "",
           "Icon": "Yes",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         }
       ]
     },
@@ -30,7 +30,7 @@
           "Summer_Peak_(mWp)": 2,
           "Winter_Peak_(mWp)": "",
           "Icon": "Y_s",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Type": "Building-mounted domestic",
@@ -38,7 +38,7 @@
           "Summer_Peak_(mWp)": 2,
           "Winter_Peak_(mWp)": "",
           "Icon": "Y_s",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         }
       ]
     },
@@ -51,7 +51,7 @@
           "Summer_Peak_(mWp)": 3,
           "Winter_Peak_(mWp)": 4,
           "Icon": "Y_s",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Type": "Fast",
@@ -59,7 +59,7 @@
           "Summer_Peak_(mWp)": 5,
           "Winter_Peak_(mWp)": 6,
           "Icon": "Y_s",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Type": "Rapid",
@@ -67,7 +67,7 @@
           "Summer_Peak_(mWp)": 10,
           "Winter_Peak_(mWp)": 12,
           "Icon": "Yes",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Type": "Ultra-rapid",
@@ -75,7 +75,7 @@
           "Summer_Peak_(mWp)": 23,
           "Winter_Peak_(mWp)": 25,
           "Icon": "Yes",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         }
       ]
     },
@@ -88,7 +88,7 @@
           "Summer_Peak_(mWp)": 9,
           "Winter_Peak_(mWp)": 18.72,
           "Icon": "Yes",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Type": "Ground source heat pump",
@@ -96,7 +96,7 @@
           "Summer_Peak_(mWp)": 6,
           "Winter_Peak_(mWp)": 12,
           "Icon": "Yes",
-          "Suggested_Icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "Suggested_Icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         }
       ]
     }
@@ -111,7 +111,7 @@
           "Manufacturer": "Name",
           "Summer_Peak (mWp)": 36,
           "Winter_Peak (mWp)": 2,
-          "icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Asset": "EV Charge Point",
@@ -119,7 +119,7 @@
           "Manufacturer": "",
           "Summer_Peak (mWp)": 12,
           "Winter_Peak (mWp)": 42,
-          "icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         },
         {
           "Asset": "Heat Pump",
@@ -127,7 +127,7 @@
           "Manufacturer": "",
           "Summer_Peak (mWp)": 22,
           "Winter_Peak (mWp)": 2,
-          "icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         }
       ]
     },
@@ -140,7 +140,7 @@
           "Manufacturer": "Name",
           "Summer_Peak (mWp)": 36,
           "Winter_Peak (mWp)": 2,
-          "icon": "https://www.verdemobility.com/Home/images/solutions/evchargers.png"
+          "icon": "https://cdn0.iconfinder.com/data/icons/power-2/50/45-512.png"
         }
       ]
     }
